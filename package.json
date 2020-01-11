@@ -1,0 +1,22 @@
+{
+  "name": "colorful-back",
+  "version": "1.0.0",
+  "description": "backend server for colorful-playground app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Froyj/colorful-backend.git"
+  },
+  "author": "Froyj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Froyj/colorful-backend/issues"
+  },
+  "homepage": "https://github.com/Froyj/colorful-backend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
